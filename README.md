@@ -1,11 +1,18 @@
-- 👋 Hi, I’m iseul, coding hobbyist.
-- 👀 I’m interested in javascript, typescript, but prefer typescript.
-- 🌱 I’m currently learning ReactNative.
-- 💞️ I’m looking to collaborate on : A project that's basic enough for me to make my own pull request (with help or guidance)
-- 😎 Ask me about : Whhat i'm learning, what i'm excited about.
-- 📫 How to reach me out : Shoot a mail at parkiseul218@gmail.com
-- ✨ Fun fact : I first started programming in 2021..
-
+<h1>Hi, there 👋</h1>
+😊 I’m iseul, coding hobbyist, Frontend-developer.
+<br/>
+👀 I’m interested in javascript, typescript, but prefer typescript.
+<br/>
+🌱 I’m currently learning ReactNative.
+<br/>
+💞️ I’m looking to collaborate on : A project that's basic enough for me to make my own pull request (with help or guidance)
+<br/>
+😎 Ask me about : Whhat i'm learning, what i'm excited about.
+<br/>
+📫 How to reach me out : Shoot a mail at parkiseul218@gmail.com
+<br/>
+✨ Fun fact : I first started programming in 2021..
+<br/><br/>
 Thanks for coming to my little place in Github!
 <br/>
 Happy coding!
@@ -33,5 +40,4 @@ Happy coding!
       <img alt="Amazon AWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
         <img alt=Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
   </div>
-<h3>Tools</h3>
 
