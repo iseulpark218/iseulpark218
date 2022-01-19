@@ -29,7 +29,7 @@ Happy coding!
       <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   </div>
   <div>
-      <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+      <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
       <img alt="Postgresql" src ="https://img.shields.io/badge/Postgresql-4169E1.svg?&style=for-the-badge&logo=Postgresql&logoColor=white"/>
   </div>
    <div>
