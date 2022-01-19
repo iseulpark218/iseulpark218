@@ -1,4 +1,4 @@
-<h1>Hi, there 👋</h1>
+<h1>👋 Hi, there!</h1>
 😊 I’m iseul, coding hobbyist, Frontend-developer.
 <br/>
 👀 I’m interested in javascript, typescript, but prefer typescript.
