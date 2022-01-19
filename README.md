@@ -1,7 +1,7 @@
 <h1>👋 Hi, there!</h1>
-😊 I’m iseul, coding hobbyist, Frontend-developer.
+😊 I’m iseul, coding hobbyist, Full Stack Developer, but prefer Frontend.
 <br/>
-👀 I’m interested in javascript, typescript, but prefer typescript.
+👀 I’m interested in typescript / react / next.js.
 <br/>
 🌱 I’m currently learning ReactNative.
 <br/>
