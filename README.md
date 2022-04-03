@@ -1,5 +1,6 @@
 <h1>👋 Hi, there!</h1>
-😊 I’m iseul, coding hobbyist, Full Stack Developer, but prefer Frontend.
+<br/>
+😊 I’m iseul, coding hobbyist, Full Stack Developer, <b>but prefer Frontend.</b>
 <br/>
 👀 I’m interested in typescript / react / next.js.
 <br/>
@@ -14,6 +15,7 @@
 ✨ Fun fact : I first started programming in 2021..
 <br/><br/>
 Thanks for coming to my little place in Github!
+<br/>
 <br/>
 Happy coding!
 <br/>
