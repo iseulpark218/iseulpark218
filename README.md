@@ -2,7 +2,7 @@
 <br/>
 😊 I’m iseul, coding hobbyist, Full Stack Developer, <b>but prefer Frontend.</b>
 <br/>
-👀 I’m interested in typescript / react / next.js.
+👀 I’m interested in javascript / react / next.js.
 <br/>
 🌱 I’m currently learning ReactNative.
 <br/>
@@ -43,7 +43,7 @@ Happy coding!
   </div>
   <br/>
   <div>
-      <img alt="Amazon AWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+      <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
         <img alt=Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
   </div>
 
