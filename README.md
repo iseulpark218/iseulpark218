@@ -21,7 +21,7 @@ Happy coding!
 <br/>
 <br/>
 
-<h1>💪🏻 Skills</h1>
+<h1>💪🏻 Study</h1>
     <h3>💻 Platforms & Languages</h3>
   <br/>
    <div>
